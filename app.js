@@ -1065,111 +1065,13 @@ for (let i = 0; i < counting.length; i++)
 
 //                                                                           Chapter 17to20 task 10
 
-//
-
-//
-
-//
-/*33			!	Exclamation mark
-34			"	Double quote
-35			#	Number
-36			$	Dollar sign
-37			%	Percent
-38		&	Ampersand
-39	    '	Single quote
-40		(	Left parenthesis
-41		)	Right parenthesis
-42		*	Asterisk
-43		+	Plus
-44		,	Comma
-45		-	Minus
-46		.	Period
-47		/	Slash
-48		0	Zero
-49		1	One
-50		2	Two
-51		3	Three
-52		4	Four
-53		5	Five
-54		6	Six
-55		7	Seven
-56		8	Eight
-57		9	Nine
-58		:	Colon
-59		;	Semicolon
-60		<	Less than
-61		=	Equality sign
-62		>	Greater than
-63		?	Question mark
-64		@	At sign
-65		A	Capital A
-66		B	Capital B
-67		C	Capital C
-68		D	Capital D
-69		E	Capital E
-70		F	Capital F
-71		G	Capital G
-72		H	Capital H
-73		I	Capital I
-74		J	Capital J
-75		K	Capital K
-76		L	Capital L
-77		M	Capital M
-78		N	Capital N
-79		O	Capital O
-80		P	Capital P
-81		Q	Capital Q
-82		R	Capital R
-83		S	Capital S
-84		T	Capital T
-85		U	Capital U
-86		V	Capital V
-87		W	Capital W
-88		X	Capital X
-89		Y	Capital Y
-90		Z	Capital Z
-91		[	Left square bracket
-92		\	Backslash
-93		]	Right square bracket
-94		^	Caret / circumflex
-95		_	Underscore
-96		`	Grave / accent
-97		a	Small a
-98		b	Small b
-99		c	Small c
-100	64	01100100	&#100;	d	Small d
-101	65	01100101	&#101;	e	Small e
-102	66	01100110	&#102;	f	Small f
-103	67	01100111	&#103;	g	Small g
-104	68	01101000	&#104;	h	Small h
-105	69	01101001	&#105;	i	Small i
-106	6A	01101010	&#106;	j	Small j
-107	6B	01101011	&#107;	k	Small k
-108	6C	01101100	&#108;	l	Small l
-109	6D	01101101	&#109;	m	Small m
-110	6E	01101110	&#110;	n	Small n
-111	6F	01101111	&#111;	o	Small o
-112	70	01110000	&#112;	p	Small p
-113	71	01110001	&#113;	q	Small q
-114	72	01110010	&#114;	r	Small r
-115	73	01110011	&#115;	s	Small s
-116	74	01110100	&#116;	t	Small t
-117	75	01110101	&#117;	u	Small u
-118	76	01110110	&#118;	v	Small v
-119	77	01110111	&#119;	w	Small w
-120	78	01111000	&#120;	x	Small x
-121	79	01111001	&#121;	y	Small y
-122	7A	01111010	&#122;	z	Small z
-123	7B	01111011	&#123;	{	Left curly bracket
-124	7C	01111100	&#124;	|	Vertical bar
-125	7D	01111101	&#125;	}	Right curly bracket
-126	7E	01111110	&#126;	~	Tilde*/
+// for (let i = 1; i < 101; i++) {
+//     if (i%5 === 0) {
+//         document.write(i + ",");   
+//     } 
+// }
 
 
 
 
-for (let i = 1; i < 101; i++) {
-    if (i%5 === 0) {
-        document.write(i + ",");   
-    } 
-}
+
